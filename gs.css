@@ -36,6 +36,13 @@ color: black;
     font-size: small;
     font-family: 'Times New Roman', Times, serif;
     background-color: green;
+
+}
+.BAR:hover{
+    color:aquamarine;
+    text-shadow: 5px 10px 15px green;
+    background-color: blueviolet;
+    border-style: solid;
 }
 .ALL{
     font-style: normal;
@@ -44,12 +51,24 @@ color: black;
     font-family: 'Times New Roman', Times, serif;
     background-color: antiquewhite;
 }
+.ALL:hover{
+    color:azure;
+    text-shadow: 5px 10px 15px green;
+    background-color: red;
+    border-style: solid;
+}
 .LUD{
     font-style: normal;
     color: azure;
     font-size: small;
     font-family: 'Times New Roman', Times, serif;
     background-color: blue;
+}
+.LUD:hover{
+    color:brown;
+    text-shadow: 5px 10px 15px green;
+    background-color: yellow;
+    border-style: solid;
 }
 .CHORUS{
     font-family: 'Times New Roman', Times, serif;
