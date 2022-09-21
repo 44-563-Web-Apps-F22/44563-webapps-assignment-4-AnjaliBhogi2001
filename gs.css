@@ -1,0 +1,40 @@
+Speech{
+font-family: 'Times New Roman', Times, serif;
+font-size: 12pxl;
+color: black;
+}
+song{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pxl;
+    color: black;
+}
+direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pxl;
+    color: aquamarine;
+}
+name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pxl;
+    color: black;
+}
+direction:hover,direction:active{
+    background-color: aqua;
+    color: blue;
+}
+BAR{
+    font-style: normal;
+    color: blueviolet;
+}
+ALL{
+    font-style: normal;
+    color: brown;
+}
+LUD{
+    font-style: normal;
+    color: brown;
+}
+CHORUS{
+    font-style: normal;
+    color: blueviolet;
+}
