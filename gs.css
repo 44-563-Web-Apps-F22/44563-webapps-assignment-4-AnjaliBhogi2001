@@ -13,33 +13,34 @@ color: black;
     font-size: 12pxl;
     color: black;
 }
-.direction{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 12pxl;
-    color: aquamarine;
-}
 .name{
     font-family: 'Times New Roman', Times, serif;
     font-size: 12pxl;
     color: black;
 }
+.direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pxl;
+    color: aquamarine;
+}
+
 .direction:hover,.direction:active{
     background-color: aqua;
     color: blue;
 }
-.BAR{
+h6.BAR{
     font-style: normal;
     color: blueviolet;
 }
-.ALL{
+h6.ALL{
     font-style: normal;
     color: brown;
 }
-.LUD{
+h6.LUD{
     font-style: normal;
     color: brown;
 }
-.CHORUS{
+h6.CHORUS{
     font-style: normal;
     color: blueviolet;
 }
