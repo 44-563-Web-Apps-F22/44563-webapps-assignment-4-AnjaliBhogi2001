@@ -12,6 +12,7 @@ color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 12pxl;
     color: black;
+    text-indent: 70px yellow;
 }
 .name{
     font-family: 'Times New Roman', Times, serif;
@@ -31,17 +32,21 @@ color: black;
 h6.BAR{
     font-style: normal;
     color: blueviolet;
+    font-size: small;
 }
 h6.ALL{
     font-style: normal;
     color: brown;
+    font-size: small;
 }
 h6.LUD{
     font-style: normal;
     color: brown;
+    font-size: small;
 }
 h6.CHORUS{
     font-style: normal;
     color: blueviolet;
     font-size: medium;
+    text-indent: 100px green;
 }
