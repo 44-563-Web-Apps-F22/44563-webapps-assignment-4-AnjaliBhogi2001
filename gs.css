@@ -10,43 +10,74 @@ color: black;
 }
 .song{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 12pxl;
-    color: black;
-    text-indent: 70px yellow;
+    font-size: medium;
+    color: blue;
+    text-indent: 70px;
 }
 .name{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 12pxl;
+    font-size: small;
     color: black;
 }
 .direction{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 12pxl;
+    font-size: small;
     color: aquamarine;
+
 }
 
 .direction:hover,.direction:active{
     background-color: aqua;
     color: blue;
 }
-h6.BAR{
+.BAR{
     font-style: normal;
-    color: blueviolet;
+    color: white;
     font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
 }
-h6.ALL{
+.ALL{
     font-style: normal;
     color: brown;
     font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
 }
-h6.LUD{
+.LUD{
     font-style: normal;
-    color: brown;
+    color: azure;
     font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
 }
 .CHORUS{
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: blueviolet;
     font-size: medium;
-    text-indent: 100px green;
+    text-indent: 100px;
+}
+.d{
+    color: green;
+    
+}
+table,  th, td {
+    border: 1px solid;
+    
+}
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+tr {
+    row-gap: 0.3px;
+}
+th{
+    background-color: brown;
+    color: azure;
+}
+tr:nth-child(odd){
+    background-color: brown;
+    color: bisque;
 }
