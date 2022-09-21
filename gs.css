@@ -1,40 +1,45 @@
-Speech{
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pxl;
+    color: black;
+    }
+.Speech{
 font-family: 'Times New Roman', Times, serif;
 font-size: 12pxl;
 color: black;
 }
-song{
+.song{
     font-family: 'Times New Roman', Times, serif;
     font-size: 12pxl;
     color: black;
 }
-direction{
+.direction{
     font-family: 'Times New Roman', Times, serif;
     font-size: 12pxl;
     color: aquamarine;
 }
-name{
+.name{
     font-family: 'Times New Roman', Times, serif;
     font-size: 12pxl;
     color: black;
 }
-direction:hover,direction:active{
+.direction:hover,.direction:active{
     background-color: aqua;
     color: blue;
 }
-BAR{
+.BAR{
     font-style: normal;
     color: blueviolet;
 }
-ALL{
+.ALL{
     font-style: normal;
     color: brown;
 }
-LUD{
+.LUD{
     font-style: normal;
     color: brown;
 }
-CHORUS{
+.CHORUS{
     font-style: normal;
     color: blueviolet;
 }
